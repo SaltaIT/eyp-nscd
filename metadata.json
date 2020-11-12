@@ -4,9 +4,9 @@
   "author": "eyp",
   "summary": "nscd deamon",
   "license": "Apache-2.0",
-  "source": "https://github.com/NTTCom-MS/eyp-nscd",
-  "project_page": "https://github.com/NTTCom-MS/eyp-nscd",
-  "issues_url": "https://github.com/NTTCom-MS/eyp-nscd/issues",
+  "source": "https://github.com/SaltaIT/eyp-nscd",
+  "project_page": "https://github.com/SaltaIT/eyp-nscd",
+  "issues_url": "https://github.com/SaltaIT/eyp-nscd/issues",
   "dependencies": [
     {"name":"puppetlabs/stdlib","version_requirement":">= 1.0.0 < 9.9.9"}
   ],
